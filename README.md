@@ -11,7 +11,7 @@ To get started simply fork the repo and read the following file.
 ##Mobile Phone Applications
 ##IOT
 ##Scripting  
-1.**Aditya Chowdhry - [file_organizer](https://github.com/Aditya-Chowdhry/file_organizer)**
+1. **Aditya Chowdhry - [file_organizer](https://github.com/Aditya-Chowdhry/file_organizer)**
 
 
 
