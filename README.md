@@ -12,6 +12,7 @@ To get started simply fork the repo and read the following file.
 ##IOT
 ##Scripting  
 1. **Aditya Chowdhry - [file_organizer](https://github.com/Aditya-Chowdhry/file_organizer)**
+2. **Bhagat Singh - [VidBuddy](https://github.com/xorforce/VidBuddy)**
 
 ##Test pull request
 Created by rajdeep
